@@ -1,0 +1,34 @@
+[
+    {
+        "nama" : "Putra Andhika Bagaskara",
+        "umur" : 22,
+        "nim"  : "10118268",
+        "lulus" : true,
+        "hobby" : [
+            "coding",
+            "olahraga",
+            "musik"
+        ],
+        "pembimbing" : {
+            "pembimbing1" : "Anna Andriana",
+            "pembimbing2" : "Utami Dewi",
+            "pembimbing3" : "Tati Harihayati"
+        }
+    },
+    {
+        "nama" : "Putra Andhika Bagaskara",
+        "umur" : 22,
+        "nim"  : "10118268",
+        "lulus" : true,
+        "hobby" : [
+            "coding",
+            "olahraga",
+            "musik"
+        ],
+        "pembimbing" : {
+            "pembimbing1" : "Anna Andriana",
+            "pembimbing2" : "Utami Dewi",
+            "pembimbing3" : "Tati Harihayati"
+        }
+    }
+]
